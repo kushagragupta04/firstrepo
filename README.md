@@ -1,4 +1,5 @@
 # firstrepo
 This is my first Git Repository
 <br>
-Author: Kushagra Gupta
+Author1: Kushagra Gupta
+Author2: Ashish Kumar Nanda
